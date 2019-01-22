@@ -1,0 +1,14 @@
+Electronics --> Electronics: ~87.2%
+
+
+Electronics -----> Sports
+[[16881  2329]
+ [ 3539 15673]]
+Accuracy 84.7 %
+
+
+
+Electronics ----> Grocery
+Accuracy 80.52 %
+
+

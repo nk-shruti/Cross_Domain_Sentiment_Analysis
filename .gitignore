@@ -1,0 +1,9 @@
+data/
+glove/
+smalldata/
+*.png
+*.pyc
+scripts/stopwords
+scripts/*.h5
+processedData/
+paper/
